@@ -1,2 +1,2 @@
 # university
-DEMO LINK [https://nizkiyvorobey.github.io/university/цікавенький?сайт.index.html]
+DEMO LINK [https://nizkiyvorobey.github.io/university/цікавенький%20сайт.html]
